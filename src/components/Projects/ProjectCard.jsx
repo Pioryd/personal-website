@@ -83,7 +83,7 @@ export default function ProjectCard({ data }) {
   return (
     <Card className={classes.root}>
       <Box style={{ borderBottom: "1px solid black" }}>
-        <CardMedia className={classes.media} image={photo} title="Chat" />
+        <CardMedia className={classes.media} image={photo} title={title} />
       </Box>
       <CardContent>
         <Typography style={{ textAlign: "center" }} gutterBottom variant="h5">
