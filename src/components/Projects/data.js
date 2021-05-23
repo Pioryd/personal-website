@@ -1,7 +1,7 @@
 const data = [
   {
     title: "e-commerce",
-    demo: "https://igneous-etching-301316.ew.r.appspot.com/",
+    demo: "http://ec2-13-58-22-232.us-east-2.compute.amazonaws.com/ecommerce-marketplace",
     github: "https://github.com/Pioryd/ecommerce-marketplace",
     photo: "ecommerce-marketplace.png",
     parts: [
@@ -33,7 +33,7 @@ const data = [
   },
   {
     title: "Admin panel",
-    demo: "https://reception-304016.ew.r.appspot.com/",
+    demo: "http://ec2-13-58-22-232.us-east-2.compute.amazonaws.com/admin-panel-reception",
     github: "https://github.com/Pioryd/admin-panel-reception",
     photo: "admin-panel-reception.png",
     parts: [
@@ -49,7 +49,7 @@ const data = [
   },
   {
     title: "Chat online",
-    demo: "https://chat-305014.ew.r.appspot.com/",
+    demo: "http://ec2-13-58-22-232.us-east-2.compute.amazonaws.com/chat-online",
     github: "https://github.com/Pioryd/chat-online",
     photo: "chat-online.png",
     parts: [
